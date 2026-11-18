@@ -236,7 +236,7 @@ This project demonstrates practical use of:
 - Sorting and route comparison
 - Basic user and admin workflows
 
-## 👥 Project Team
+
 ## 👥 Project Team
 
 <div align="center">
