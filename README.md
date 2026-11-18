@@ -150,8 +150,8 @@ At startup, the application loads admin credentials, users, and graph data from 
 Replace the URL below with your actual GitHub repository URL:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/eastiak14/Bangladesh-Route-Planner.git
+cd Bangladesh-Route-Planner
 ```
 
 ### 2. Compile
@@ -238,22 +238,20 @@ This project demonstrates practical use of:
 - Basic user and admin workflows
 
 ## 👥 Project Team
-
+<div align="center">
 | Member |
 |---|
-| Eastiak |
-| Ruhi |
-| Siam |
-| Sabbir |
-| Salauddin |
+| Eastiak Remon |
+| Faria Tabassum (Ruhi) |
+| Shahriar Hasan Siam |
+| Sabbir Hossain |
+| Salauddin Ahmed|
+</div>
 
 ## 🤝 Contributions
 
 Suggestions, bug reports, and improvements are welcome. If you want to contribute, fork the repository, create a branch, make your changes, and open a pull request.
 
-## 📄 License
-
-No license has been specified yet. Add a `LICENSE` file before presenting this project as open source.
 
 ---
 
@@ -261,6 +259,5 @@ No license has been specified yet. Add a `LICENSE` file before presenting this p
 
 **Made for learning, problem-solving, and exploring graph algorithms.**
 
-⭐ If this project helped you learn, consider giving the repository a star.
 
 </div>
