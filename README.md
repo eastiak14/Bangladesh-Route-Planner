@@ -209,7 +209,6 @@ Bangladesh-Route-Planner/
     └── route-result.png
 ```
 
-The `assets/` screenshots are optional. Add your own screenshots before using these paths in the README; no screenshots are included by default.
 
 ## 🔐 Security and Data Notes
 
@@ -238,14 +237,24 @@ This project demonstrates practical use of:
 - Basic user and admin workflows
 
 ## 👥 Project Team
+## 👥 Project Team
+
 <div align="center">
-| Member |
-|---|
-| Eastiak Remon |
-| Faria Tabassum (Ruhi) |
-| Shahriar Hasan Siam |
-| Sabbir Hossain |
-| Salauddin Ahmed|
+
+<table>
+  <tr>
+    <td align="center"><b>Eastiak Remon</b></td>
+    <td align="center"><b> Faria Tabassum (Ruhi)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b> Shahriar Hasan Siam</b></td>
+    <td align="center"><b> Sabbir Hossain</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>Salauddin Ahmed</b></td>
+  </tr>
+</table>
+
 </div>
 
 ## 🤝 Contributions
