@@ -1,0 +1,19 @@
+Dhaka|Chattogram|244|750
+Dhaka|Sylhet|240|650
+Dhaka|Rajshahi|255|640
+Dhaka|Jashore|190|480
+Dhaka|Barishal|170|450
+Dhaka|Cumilla|97|250
+Dhaka|Mymensingh|120|280
+Dhaka|Bogura|200|520
+Chattogram|Cox's Bazar|152|420
+Chattogram|Cumilla|150|320
+Sylhet|Cumilla|215|480
+Sylhet|Mymensingh|200|450
+Rajshahi|Jashore|235|520
+Rajshahi|Bogura|100|230
+Rajshahi|Rangpur|185|420
+Jashore|Khulna|65|140
+Khulna|Barishal|120|300
+Mymensingh|Bogura|175|400
+Bogura|Rangpur|100|240
